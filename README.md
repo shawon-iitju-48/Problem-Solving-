@@ -1,10 +1,11 @@
 ## Programming Problem's Solutions
 
-This repository aims to provide the solution for a large quantity of problems from programming websites, competitions and interview questions. The majority of solutions found here were from my years of study and practice.
+This repository aims to provide solutions for a large number of problems from various programming websites, competitions, and interview questions. The majority of solutions here were developed during my years of study and practice.
 
-<h3>Online Judge</h3>
-1. Codeforces <br>
-2. Codechef <br>
-3. UVA <br>
-4. CSES <br>
-5. LightOJ
+### Online Judge
+1. **LeetCode**  
+2. Codeforces  
+3. Codechef  
+4. UVA  
+5. CSES  
+6. LightOJ  
